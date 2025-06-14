@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-service/client-service.iml" filepath="$PROJECT_DIR$/client-service/client-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/garage.iml" filepath="$PROJECT_DIR$/garage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rdv-service/rdv-service.iml" filepath="$PROJECT_DIR$/rdv-service/rdv-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehicule-service/vehicule-service.iml" filepath="$PROJECT_DIR$/vehicule-service/vehicule-service.iml" />
     </modules>
   </component>
 </project>
