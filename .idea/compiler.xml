@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="vehicule-service" />
         <module name="discovery-service" />
+        <module name="gateway" />
         <module name="client-service" />
         <module name="rdv-service" />
       </profile>
@@ -18,6 +19,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="client-service" options="-parameters" />
       <module name="discovery-service" options="-parameters" />
+      <module name="gateway" options="-parameters" />
       <module name="rdv-service" options="-parameters" />
       <module name="vehicule-service" options="-parameters" />
     </option>
