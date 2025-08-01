@@ -1,0 +1,9 @@
+com\garage\vehiculeservice\DTO\VehiculeResponse.class
+com\garage\vehiculeservice\DTO\CreateVehiculeRequest.class
+com\garage\vehiculeservice\VehiculeServiceApplication.class
+com\garage\vehiculeservice\Services\VehiculeService.class
+com\garage\vehiculeservice\Controller\VehiculeController.class
+com\garage\vehiculeservice\Clients\ClientClient.class
+com\garage\vehiculeservice\Repositories\VehiculeRepository.class
+com\garage\vehiculeservice\DTO\VehiculeResponse$VehiculeResponseBuilder.class
+com\garage\vehiculeservice\Entities\Vehicule.class

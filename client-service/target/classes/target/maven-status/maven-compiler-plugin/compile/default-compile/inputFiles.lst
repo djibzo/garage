@@ -1,1 +1,7 @@
 C:\Users\hp\Desktop\MIGL 2024-2025\JAVA\garage\client-service\src\main\java\com\garage\clientservice\ClientServiceApplication.java
+C:\Users\hp\Desktop\MIGL 2024-2025\JAVA\garage\client-service\src\main\java\com\garage\clientservice\Controller\ClientController.java
+C:\Users\hp\Desktop\MIGL 2024-2025\JAVA\garage\client-service\src\main\java\com\garage\clientservice\dto\ClientResponseDTO.java
+C:\Users\hp\Desktop\MIGL 2024-2025\JAVA\garage\client-service\src\main\java\com\garage\clientservice\dto\CreateClientRequest.java
+C:\Users\hp\Desktop\MIGL 2024-2025\JAVA\garage\client-service\src\main\java\com\garage\clientservice\Entities\Client.java
+C:\Users\hp\Desktop\MIGL 2024-2025\JAVA\garage\client-service\src\main\java\com\garage\clientservice\Repositories\ClientRepository.java
+C:\Users\hp\Desktop\MIGL 2024-2025\JAVA\garage\client-service\src\main\java\com\garage\clientservice\Services\ClientService.java

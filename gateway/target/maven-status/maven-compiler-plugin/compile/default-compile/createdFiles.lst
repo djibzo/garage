@@ -1,1 +1,2 @@
-com\garage\gateway\GatewayApplication.class
+src\main\java\com\garage\gateway\SecurityConfig.class
+src\main\java\com\garage\gateway\GatewayApplication.class
